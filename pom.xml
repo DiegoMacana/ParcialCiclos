@@ -22,6 +22,11 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+		<dependency>
+		<groupId>edu.eci.cvds</groupId>
+		<artifactId>BookSaleService</artifactId>
+		<version>1.0.0</version>
+	</dependency>
 
 
 </project>

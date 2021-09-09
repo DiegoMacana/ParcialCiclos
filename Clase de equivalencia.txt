@@ -1,0 +1,13 @@
+Categoria del descuento:
+
+type.persona=empleado TRUE
+type.persona=estudiante TRUE
+type.persona=otro TRUE 
+
+Calificacion de libro:
+
+(-infinito,1)= deberia fallar
+[1,10]= valor 25.000
+[11,20]= valor 50.000
+[21,30]= valor 100.000
+(30,infinito)= deberia fallar
